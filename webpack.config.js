@@ -80,6 +80,7 @@ const entryPointNames = [
 	'core-data',
 	'plugins',
 	'edit-post',
+	'view-post',
 ];
 
 const packageNames = [
